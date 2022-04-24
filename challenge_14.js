@@ -1,7 +1,6 @@
 CryptoJS = require('crypto-js')
 
 
-
 window = this;
 
 // (function anonymous(
