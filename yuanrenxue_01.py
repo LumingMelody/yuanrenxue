@@ -4,6 +4,7 @@ import requests
 import base64
 from openpyxl import Workbook
 
+requests.packages.urllib3.ssl_.DEFAULT_CIPHERS = 'ALL'
 wb = Workbook()
 ws = wb.active
 

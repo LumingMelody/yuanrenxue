@@ -1,7 +1,19 @@
 {
   "dependencies": {
+    "@babel/code-frame": "^7.16.7",
+    "@babel/core": "^7.17.9",
+    "@babel/generator": "^7.17.9",
+    "@babel/parser": "^7.17.9",
+    "@babel/runtime": "^7.17.9",
+    "@babel/template": "^7.16.7",
+    "@babel/traverse": "^7.17.9",
+    "@babel/types": "^7.17.0",
     "atob": "^2.1.2",
     "btoa": "^1.2.1",
-    "crypto-js": "^4.1.1"
+    "crypto-js": "^4.1.1",
+    "fs": "^0.0.1-security",
+    "generator": "^1.0.1",
+    "jsdom": "^19.0.0",
+    "nodejs-websocket": "^1.7.2"
   }
 }
